@@ -1,18 +1,18 @@
 {
   "formatVersion": 1,
-  "uid":"bskprs.armorstatushud",
+  "uid":"bspkrs.armorstatushud",
   "repo":"ZephireNZ.QuickMod",
   "modId":"ArmorStatusHUD",
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
   "urls":{
     "forum": ["mcf:1114612"],
-    "source": ["http://github.com/bskprs/ArmorStatusHUD"]
+    "source": ["http://github.com/bspkrs/ArmorStatusHUD"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
-  "authors":{ "Developer":["bskprs"] },
+  "authors":{ "Developer":["bspkrs"] },
   "versions":[
     {
       "mcCompat":["1.7.2"],
@@ -23,7 +23,7 @@
       "url":"http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
       "references": [
         {
-          "uid": "bskprs.bskprscore",
+          "uid": "bspkrs.bskprscore",
           "version": "[6.8,)",
           "type": "depends"
         }
