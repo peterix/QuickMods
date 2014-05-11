@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "uid":"com.github.lunatrius.ingameinfo",
+  "repo":"ZephireNZ.QuickMod",
+  "modId":"InGameInfoXML",
+  "name":"InGame Info XML",
+  "description":"Ingame Info adds the ability to add lines of information to your in-game screen.",
+  "urls":{
+    "forum": ["mcf:1296949"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/Schematica.quickmod",
+  "authors":{ "Developer":["Lunatrius"] },
+  "tags": ["GUI"],
+  "catagories": ["GUI"],
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "name":"2.6.0.44",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "direct",
+      "url":"http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.44/InGameInfoXML-1.7.2-2.6.0.44-client.jar",
+      "references": [
+        {
+          "uid": "com.github.lunatrius.core",
+          "version": "[1.0.2.7,)",
+          "type": "depends"
+        }
+      ]
+    }
+  ]
+}
