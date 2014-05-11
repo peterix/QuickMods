@@ -6,7 +6,7 @@
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
   "urls":{
-    "forum": "mcf:1114612"
+    "forum": ["mcf:1114612"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.qm",
   "tags":["HUD", "GUI"],
