@@ -4,6 +4,14 @@
     {
       "uid": "bskprs.armorstatushud",
       "url": "ArmorStatusHUD.quickmod"
+    },
+    {
+      "uid": "bskprs.statuseffecthud",
+      "url": "StatusEffectHUD.quickmod"
+    },
+    {
+      "uid": "bskprs.bskprscore",
+      "url": "bskprsCore.quickmod"
     }
   ]
 }
