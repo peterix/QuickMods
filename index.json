@@ -10,6 +10,10 @@
       "url": "StatusEffectHUD.quickmod"
     },
     {
+      "uid": "bspkrs.bskprscore",
+      "url": "bspkrsCore.quickmod"
+    },
+    {
       "uid": "com.github.lunatrius.core",
       "url": "LunatriusCore.quickmod"
     },
@@ -20,10 +24,6 @@
     {
       "uid": "com.github.lunatrius.ingameinfo",
       "url": "InGameInfoXML.quickmod"
-    },
-    {
-      "uid": "bspkrs.bskprscore",
-      "url": "bspkrsCore.quickmod"
     }
   ]
 }
