@@ -5,13 +5,12 @@
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
   "urls":[
-    {"type":"forum","url":"mcf:1114612"},
+    {"type":"forum","url":"mcf:1114612"}
   ],
   "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.qm",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bskprs"] },
-  "references":{},
   "versions":[
     {
       "mcCompat":["1.7.2"],

@@ -1,0 +1,9 @@
+{
+  "baseUrl": "github://ZephireNZ@QuickMods/",
+  "index": [
+    {
+      "uid": "bskprs.armorstatushud",
+      "url": "ArmourStatusHUD.quickmod"
+    }
+  ]
+}
