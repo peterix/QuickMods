@@ -8,7 +8,7 @@
   "urls":{
     "forum": ["mcf:1114612"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.qm",
+  "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bskprs"] },
