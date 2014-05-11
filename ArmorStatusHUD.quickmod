@@ -1,4 +1,5 @@
 {
+  "formatVersion": 1,
   "uid":"bskprs.armorstatushud",
   "repo":"ZephireNZ.QuickMod",
   "modId":"ArmorStatusHUD",
