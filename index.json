@@ -2,16 +2,16 @@
   "baseUrl": "github://ZephireNZ@QuickMods/",
   "index": [
     {
-      "uid": "bskprs.armorstatushud",
+      "uid": "bspkrs.armorstatushud",
       "url": "ArmorStatusHUD.quickmod"
     },
     {
-      "uid": "bskprs.statuseffecthud",
+      "uid": "bspkrs.statuseffecthud",
       "url": "StatusEffectHUD.quickmod"
     },
     {
-      "uid": "bskprs.bskprscore",
-      "url": "bskprsCore.quickmod"
+      "uid": "bspkrs.bskprscore",
+      "url": "bspkrsCore.quickmod"
     }
   ]
 }

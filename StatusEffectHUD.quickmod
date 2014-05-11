@@ -1,28 +1,30 @@
 {
   "formatVersion": 1,
-  "uid":"bskprs.statuseffecthud",
+  "uid":"bspkrs.statuseffecthud",
   "repo":"ZephireNZ.QuickMod",
   "modId":"StatusEffectHUD",
   "name":"StatusEffectHUD",
   "description":"StatusEffectHUD displays your currently active potions/effects without having to open your inventory!",
   "urls":{
-    "forum": ["mcf:1114612"]
+    "forum": ["mcf:1114612"],
+    "source": ["http://github.com/bspkrs/StatusEffectHUD"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/StatusEffectHUD.quickmod",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
-  "authors":{ "Developer":["bskprs"] },
+  "authors":{ "Developer":["bspkrs"] },
   "versions":[
     {
       "mcCompat":["1.7.2"],
       "name":"1.24",
       "type":"Release",
       "installType":"forgeMod",
+      "downloadType": "direct",
       "url":"http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.24(1.7.2).jar",
       "references": [
         {
-          "uid": "bskprs.bskprscore",
-          "version": "",
+          "uid": "bspkrs.bskprscore",
+          "version": "[6.5,)",
           "type": "depends"
         }
       ]

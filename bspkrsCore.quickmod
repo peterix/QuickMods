@@ -1,23 +1,25 @@
 {
   "formatVersion": 1,
-  "uid":"bskprs.bskprscore",
+  "uid":"bspkrs.bspkrscore",
   "repo":"ZephireNZ.QuickMod",
-  "modId":"bskprsCore",
+  "modId":"bspkrsCore",
   "name":"bskprsCore",
   "description":"This is a REQUIRED mod in order for any of the other mods to work.  It contains the core shared classes used by all mods I release.  If you don't install it along with any of the other mods here, Minecraft will crash.  You have been warned.",
   "urls":{
-    "forum": ["mcf:1114612"]
+    "forum": ["mcf:1114612"],
+    "source": ["http://github.com/bspkrs/bspkrsCore"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/bskprsCore.quickmod",
+  "updateUrl":"github://ZephireNZ@QuickMods/bspkrsCore.quickmod",
   "tags":["API", "Core"],
   "catagories":["API", "Core"],
-  "authors":{ "Developer":["bskprs"] },
+  "authors":{ "Developer":["bspkrs"] },
   "versions":[
     {
       "mcCompat":["1.7.2"],
       "name":"6.8",
       "type":"Release",
       "installType":"forgeMod",
+      "downloadType": "direct",
       "url":"http://bspk.rs/MC/bspkrsCore/latest/[1.7.2]bspkrsCore-universal-6.8(1.7.2).jar"
     }
   ]

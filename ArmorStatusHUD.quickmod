@@ -6,7 +6,8 @@
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
   "urls":{
-    "forum": ["mcf:1114612"]
+    "forum": ["mcf:1114612"],
+    "source": ["http://github.com/bskprs/ArmorStatusHUD"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
   "tags":["HUD", "GUI"],
@@ -18,11 +19,12 @@
       "name":"1.25",
       "type":"Release",
       "installType":"forgeMod",
+      "downloadType": "direct",
       "url":"http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
       "references": [
         {
           "uid": "bskprs.bskprscore",
-          "version": "",
+          "version": "[6.8,)",
           "type": "depends"
         }
       ]
