@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "uid":"optifine",
+  "repo":"ZephireNZ.QuickMod",
+  "modId":"Optifine",
+  "name":"Optifine",
+  "description":"This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common.",
+  "urls":{
+    "forum": ["mcf:249637"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/Optifine.quickmod",
+  "tags":["GUI"],
+  "catagories":["GUI"],
+  "authors":{ "Developer":["sp614x"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.7.2_HD_U_D1",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "sequential",
+      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.2_HD_U_D1.jar"
+    },
+    {
+      "mcCompat":["1.7.4"],
+      "name":"1.7.4_HD_U_C7",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "sequential",
+      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_C7.jar"
+    },
+    {
+      "mcCompat":["1.7.4"],
+      "name":"1.7.4_HD_U_D1",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "sequential",
+      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_D1.jar"
+    },
+    {
+      "mcCompat":["1.7.9"],
+      "name":"1.7.9_HD_U_D2",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "sequential",
+      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.9_HD_U_D2.jar"
+    }
+  ]
+}

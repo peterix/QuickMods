@@ -24,6 +24,10 @@
     {
       "uid": "com.github.lunatrius.ingameinfo",
       "url": "InGameInfoXML.quickmod"
+    },
+    {
+      "uid": "optifine",
+      "url": "Optifine.quickmod"
     }
   ]
 }
