@@ -27,6 +27,21 @@
           "type": "depends"
         }
       ]
+    },
+    {
+      "mcCompat":["1.7.2"],
+      "name":"2.6.0.45",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "direct",
+      "url":"http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.45/InGameInfoXML-1.7.2-2.6.0.45-client.jar",
+      "references": [
+        {
+          "uid": "com.github.lunatrius.core",
+          "version": "[1.0.2.7,)",
+          "type": "depends"
+        }
+      ]
     }
   ]
 }
