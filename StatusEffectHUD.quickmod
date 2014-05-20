@@ -13,6 +13,9 @@
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bspkrs"] },
+  "references": {
+    "bspkrs.bskprscore": "github://ZephireNZ@QuickMods/bskprsCore.quickmod"
+  },
   "versions":[
     {
       "mcCompat":["1.7.2"],

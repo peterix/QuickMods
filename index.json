@@ -32,6 +32,22 @@
     {
       "uid": "invtweaks",
       "url": "InventoryTweaks.quickmod"
+    },
+    {
+      "uid": "net.eq2online.macros",
+      "url": "MacrosMod.quickmod"
+    },
+    {
+      "uid": "com.mumfrey.worldeditcui",
+      "url": "WorldEditCUI.quickmod"
+    },
+    {
+      "uid": "codechicken.core",
+      "url": "CodeChickenCore.quickmod"
+    },
+    {
+      "uid": "codechicken.nei",
+      "url": "NotEnoughItems.quickmod"
     }
   ]
 }

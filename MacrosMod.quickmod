@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "uid":"net.eq2online.macros",
+  "repo":"ZephireNZ.QuickMod",
+  "name":"MacrosMod",
+  "urls":{
+    "forum": ["mcf:467504"],
+    "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/header.png"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/MacrosMod.quickmod",
+  "tags":["Macros", "GUI"],
+  "catagories":["Macros", "GUI"],
+  "authors":{ "Developer":["Mumfrey"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "name":"0.10.04",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "direct",
+      "url":"http://eq2.co.uk/minecraft/mods/mod_macros_0.10.04_for_1.7.2.litemod"
+    }
+  ]
+}

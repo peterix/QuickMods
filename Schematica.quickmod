@@ -12,6 +12,9 @@
   "authors":{ "Developer":["Lunatrius"] },
   "tags": ["GUI"],
   "catagories": ["GUI"],
+  "references": {
+    "com.github.lunatrius.core": "github://ZephireNZ@QuickMods/LunatriusCore.quickmod"
+  },
   "versions":[
     {
       "mcCompat":["1.7.2"],
