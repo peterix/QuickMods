@@ -48,6 +48,10 @@
     {
       "uid": "codechicken.nei",
       "url": "NotEnoughItems.quickmod"
+    },
+    {
+      "uid": "codechicken.lib",
+      "url": "CodeChickenLib.quickmod"
     }
   ]
 }

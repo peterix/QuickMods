@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "uid":"codechicken.lib",
+  "repo":"ZephireNZ.QuickMod",
+  "modId":"CodeChickenLib",
+  "name":"CodeChickenLib",
+  "urls":{
+    "source": ["http://github.com/Chicken-Bones/CodeChickenLib"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/CodeChickenLib.quickmod",
+  "tags":["Core"],
+  "catagories":["Core"],
+  "authors":{ "Developer":["ChickenBones"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.1.1.80",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "direct",
+      "url":"http://files.minecraftforge.net/maven/codechicken/CodeChickenLib/1.7.2-1.1.1.80/CodeChickenLib-1.7.2-1.1.1.80-universal.jar"
+    }
+  ]
+}

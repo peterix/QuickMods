@@ -6,14 +6,15 @@
   "name":"NotEnoughItems",
   "urls":{
     "forum": ["mcf:909223"],
-    "source": ["http://bitbucket.org/ChickenBones/notenoughitems"]
+    "source": ["http://github.com/Chicken-Bones/NotEnoughItems"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/NotEnoughItems.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
-    "codechicken.core": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod"
+    "codechicken.core": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
+    "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
   },
   "versions": [
     {
@@ -27,6 +28,11 @@
         {
           "uid": "codechicken.core",
           "version": "[1.0.0,)",
+          "type": "depends"
+        },
+        {
+          "uid": "codechicken.lib",
+          "version": "",
           "type": "depends"
         }
       ]

@@ -7,12 +7,15 @@
   "description": "Core library for all ChickenBones mods",
   "urls":{
     "forum": ["mcf:909223"],
-    "source": ["http://bitbucket.org/ChickenBones/codechickencore"]
+    "source": ["http://github.com/Chicken-Bones/CodeChickenCore"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
   "tags":["Core"],
   "catagories":["Core"],
   "authors":{ "Developer":["ChickenBones"] },
+  "references": {
+    "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
+  },
   "versions":[
     {
       "mcCompat":["1.7.2"],
@@ -20,7 +23,14 @@
       "type":"Release",
       "installType":"forgeMod",
       "downloadType": "direct",
-      "url":"http://www.chickenbones.craftsaddle.org/Files/New_Versions/1.7.2/CodeChickenCore-1.7.2-1.0.0-universal.jar"
+      "url":"http://www.chickenbones.craftsaddle.org/Files/New_Versions/1.7.2/CodeChickenCore-1.7.2-1.0.0-universal.jar",
+      "references": [
+        {
+          "uid": "codechicken.lib",
+          "version": "",
+          "type": "depends"
+        }
+      ]
     }
   ]
 }
