@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "uid":"invtweaks",
+  "repo":"ZephireNZ.QuickMod",
+  "modId":"inventorytweaks",
+  "name":"InventoryTweaks",
+  "description":"This client mod allows you to easily manage your inventory, in both single player and multiplayer.",
+  "urls":{
+    "forum": ["mcf:1720872"],
+    "source": ["http://github.com/Kobata/inventory-tweaks"],
+    "logo": ["http://modding.kalam-alami.net/img/invtweaks.png"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
+  "tags":["GUI"],
+  "catagories":["GUI"],
+  "authors":{ "Developer":["Kobata"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "forgeCompat": "[10.12.1,)",
+      "name":"1.57",
+      "type":"Release",
+      "installType":"forgeMod",
+      "downloadType": "direct",
+      "url":"http://build.technicpack.net/job/Inventory-Tweaks/116/artifact/build/libs/InventoryTweaks-1.57-116.jar"
+    }
+  ]
+}

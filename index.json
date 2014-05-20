@@ -28,6 +28,10 @@
     {
       "uid": "optifine",
       "url": "Optifine.quickmod"
+    },
+    {
+      "uid": "invtweaks",
+      "url": "InventoryTweaks.quickmod"
     }
   ]
 }
