@@ -43,6 +43,9 @@
       "urls": [
         {
           "url": "http://mc.lunatri.us/files/com.github.lunatrius/Schematica/1.7.2-1.6.1.73/Schematica-1.7.2-1.6.1.73-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
       "references": [
         {
           "uid": "com.github.lunatrius.core",
