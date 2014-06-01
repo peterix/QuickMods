@@ -22,8 +22,12 @@
       "name":"1.7.2.1.0.1",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://www.chickenbones.craftsaddle.org/Files/New_Versions/1.7.2/NotEnoughItems-1.7.2-1.0.1-universal.jar",
+      "urls": [
+        {
+          "url": "http://www.chickenbones.craftsaddle.org/Files/New_Versions/1.7.2/NotEnoughItems-1.7.2-1.0.1-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
       "references": [
         {
           "uid": "codechicken.core",

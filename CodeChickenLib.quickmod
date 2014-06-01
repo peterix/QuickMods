@@ -17,8 +17,12 @@
       "name":"1.1.1.80",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://files.minecraftforge.net/maven/codechicken/CodeChickenLib/1.7.2-1.1.1.80/CodeChickenLib-1.7.2-1.1.1.80-universal.jar"
+      "urls": [
+        {
+          "url": "http://files.minecraftforge.net/maven/codechicken/CodeChickenLib/1.7.2-1.1.1.80/CodeChickenLib-1.7.2-1.1.1.80-universal.jar",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }

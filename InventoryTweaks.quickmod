@@ -21,8 +21,12 @@
       "name":"1.57",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://build.technicpack.net/job/Inventory-Tweaks/116/artifact/build/libs/InventoryTweaks-1.57-116.jar"
+      "urls": [
+        {
+          "url": "http://build.technicpack.net/job/Inventory-Tweaks/116/artifact/build/libs/InventoryTweaks-1.57-116.jar",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }

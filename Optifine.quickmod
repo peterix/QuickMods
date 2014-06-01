@@ -18,32 +18,48 @@
       "name":"1.7.2_HD_U_D1",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "sequential",
-      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.2_HD_U_D1.jar"
+      "urls": [
+        {
+          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.2_HD_U_D1.jar",
+          "downloadType": "sequential"
+        }
+      ]
     },
     {
       "mcCompat":["1.7.4"],
       "name":"1.7.4_HD_U_C7",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "sequential",
-      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_C7.jar"
+      "urls": [
+        {
+          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_C7.jar",
+          "downloadType": "sequential"
+        }
+      ]
     },
     {
       "mcCompat":["1.7.4"],
       "name":"1.7.4_HD_U_D1",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "sequential",
-      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_D1.jar"
+      "urls": [
+        {
+          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_D1.jar",
+          "downloadType": "sequential"
+        }
+      ]
     },
     {
       "mcCompat":["1.7.9"],
       "name":"1.7.9_HD_U_D2",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "sequential",
-      "url":"http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.9_HD_U_D2.jar"
+      "urls": [
+        {
+          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.9_HD_U_D2.jar",
+          "downloadType": "sequential"
+        }
+      ]
     }
   ]
 }

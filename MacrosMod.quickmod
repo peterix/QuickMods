@@ -17,8 +17,12 @@
       "name":"0.10.04",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://eq2.co.uk/minecraft/mods/mod_macros_0.10.04_for_1.7.2.litemod"
+      "urls": [
+        {
+          "url": "http://eq2.co.uk/minecraft/mods/mod_macros_0.10.04_for_1.7.2.litemod",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }

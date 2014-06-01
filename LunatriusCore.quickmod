@@ -18,8 +18,12 @@
       "name":"1.0.2.7",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://mc.lunatri.us/files/com.github.lunatrius/LunatriusCore/1.7.2-1.0.2.7/LunatriusCore-1.7.2-1.0.2.7-universal.jar"
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/LunatriusCore/1.7.2-1.0.2.7/LunatriusCore-1.7.2-1.0.2.7-universal.jar",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }

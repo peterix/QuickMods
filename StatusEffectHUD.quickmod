@@ -22,8 +22,12 @@
       "name":"1.24",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.24(1.7.2).jar",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.24(1.7.2).jar",
+          "downloadType": "direct"
+        }
+      ],
       "references": [
         {
           "uid": "bspkrs.bskprscore",

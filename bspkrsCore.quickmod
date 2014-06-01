@@ -19,8 +19,12 @@
       "name":"6.8",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://bspk.rs/MC/bspkrsCore/latest/[1.7.2]bspkrsCore-universal-6.8(1.7.2).jar"
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/bspkrsCore/latest/[1.7.2]bspkrsCore-universal-6.8(1.7.2).jar",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }

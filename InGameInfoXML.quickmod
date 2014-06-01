@@ -21,8 +21,12 @@
       "name":"2.6.0.44",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.44/InGameInfoXML-1.7.2-2.6.0.44-client.jar",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.44/InGameInfoXML-1.7.2-2.6.0.44-client.jar",
+          "downloadType": "direct"
+        }
+      ],
       "references": [
         {
           "uid": "com.github.lunatrius.core",
@@ -36,8 +40,12 @@
       "name":"2.6.0.45",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.45/InGameInfoXML-1.7.2-2.6.0.45-universal.jar",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.2-2.6.0.45/InGameInfoXML-1.7.2-2.6.0.45-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
       "references": [
         {
           "uid": "com.github.lunatrius.core",

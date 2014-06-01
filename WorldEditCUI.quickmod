@@ -18,8 +18,12 @@
       "name":"1.7.2.02",
       "type":"Release",
       "installType":"forgeMod",
-      "downloadType": "direct",
-      "url":"http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.2_02_lite_mc1.7.2.litemod"
+      "urls": [
+        {
+          "url": "http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.2_02_lite_mc1.7.2.litemod",
+          "downloadType": "direct"
+        }
+      ]
     }
   ]
 }
