@@ -19,6 +19,25 @@
   "versions":[
     {
       "mcCompat":["1.7.2"],
+      "name":"1.25",
+      "type":"Release",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.25.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "bspkrs.bskprscore",
+          "version": "[6.9,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.2"],
       "name":"1.24",
       "type":"Release",
       "installType":"forgeMod",

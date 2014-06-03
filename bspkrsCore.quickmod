@@ -16,6 +16,19 @@
   "versions":[
     {
       "mcCompat":["1.7.2"],
+      "name":"6.9",
+      "type":"Release",
+      "installType":"forgeMod",
+      "forgeCompat": "[10.12.0.1056,)",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/bspkrsCore/latest/[1.7.2]bspkrsCore-universal-6.9.jar",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.2"],
       "name":"6.8",
       "type":"Release",
       "installType":"forgeMod",
