@@ -14,7 +14,7 @@
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bspkrs"] },
   "references": {
-    "bspkrs.bskprscore": "github://ZephireNZ@QuickMods/bskprsCore.quickmod"
+    "bspkrs.bspkrscore": "github://ZephireNZ@QuickMods/bspkrsCore.quickmod"
   },
   "versions":[
     {
@@ -30,7 +30,7 @@
       ],
       "references": [
         {
-          "uid": "bspkrs.bskprscore",
+          "uid": "bspkrs.bspkrscore",
           "version": "[6.9,)",
           "type": "depends"
         }
@@ -49,7 +49,7 @@
       ],
       "references": [
         {
-          "uid": "bspkrs.bskprscore",
+          "uid": "bspkrs.bspkrscore",
           "version": "[6.8,)",
           "type": "depends"
         }
