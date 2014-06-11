@@ -56,6 +56,10 @@
     {
       "uid": "acs.tabbychat",
       "url": "TabbyChat.quickmod"
+    },
+    {
+      "uid": "com.thevoxelbox.voxelmap",
+      "url": "VoxelMap.quickmod"
     }
   ]
 }
