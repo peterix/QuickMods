@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "uid": "eu.ha3.mc.presencefootsteps",
+  "repo": "ZephireNZ.QuickMods",
+  "name": "PresenceFootsteps",
+  "urls": {
+    "logo": ["http://ha3.eu/public/mc-mods/branding/presencefootsteps.png"],
+    "website": ["mcf:1900291"]
+  },
+  "updateUrl": "github://ZephireNZ@QuickMods/PresenceFootsteps.json",
+  "tags": ["Sound"],
+  "categories": ["Sound"],
+  "authors": {"Developers": "Hurricaaane"},
+  "versions": [
+    {
+      "mcCompat": ["1.7.2"],
+      "installType": "extract",
+      "name": "4",
+      "type": "Release",
+      "urls": [
+        {
+          "url": "http://ha3.eu/public/mc-mods/redirect-apply/pf/new/PresenceFootsteps_r4__1_7_2.zip",
+          "downloadType": "direct"
+        }
+      ]
+    }
+  ]
+}

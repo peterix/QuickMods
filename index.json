@@ -60,6 +60,10 @@
     {
       "uid": "com.thevoxelbox.voxelmap",
       "url": "VoxelMap.quickmod"
+    },
+    {
+      "uid": "eu.ha3.mc.presencefootsteps",
+      "url": "PresenceFootsteps.quickmod"
     }
   ]
 }
