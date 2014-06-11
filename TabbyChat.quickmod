@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "uid":"acs.tabbychat",
+  "repo":"ZephireNZ.QuickMod",
+  "name":"TabbyChat",
+  "urls":{
+    "forum": ["mcf:1540451"],
+    "logo": ["http://i.imgur.com/J6LrxIo.png"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/TabbyChat.quickmod",
+  "tags":["GUI"],
+  "catagories":["GUI"],
+  "authors":{ "Developer":["RocketMan10404", "Dykam", "Killjoy1221"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.11.0.1-d254306",
+      "type":"Release",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "https://raw.githubusercontent.com/ZephireNZ/QuickMods/master/files/tabbychat-1.11.0.1-d254306.litemod",
+          "downloadType": "direct"
+        }
+      ]
+    }
+  ]
+}
