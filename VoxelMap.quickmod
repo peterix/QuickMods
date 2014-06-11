@@ -9,7 +9,7 @@
     "logo": ["http://static.planetminecraft.com/files/resource_media/screenshot/1244/radar_3468641.jpg"],
     "website": ["http://www.planetminecraft.com/mod/zans-minimap/"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/VoxelMap.json",
+  "updateUrl": "github://ZephireNZ@QuickMods/VoxelMap.quickmod",
   "tags": ["GUI"],
   "categories": ["GUI"],
   "authors": {"Developers": "MamiyaOtaru"},
