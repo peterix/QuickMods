@@ -14,9 +14,20 @@
   "authors":{ "Developer":["Lunatrius"] },
   "versions":[
     {
+      "forgeCompat": "[10.13.0.1180, )",
+      "mcCompat":["1.7.10"],
+      "name":"1.1.2.11",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/LunatriusCore/1.7.10-1.1.2.11/LunatriusCore-1.7.10-1.1.2.11-universal.jar",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.0.2.7",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {

@@ -6,7 +6,7 @@
   "name":"StatusEffectHUD",
   "description":"StatusEffectHUD displays your currently active potions/effects without having to open your inventory!",
   "urls":{
-    "forum": ["mcf:1114612"],
+    "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/StatusEffectHUD"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/StatusEffectHUD.quickmod",
@@ -18,9 +18,27 @@
   },
   "versions":[
     {
+      "forgeCompat": "[10.13.0.1151,)",
+      "mcCompat":["1.7.10"],
+      "name":"1.26",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.10]StatusEffectHUD-client-1.26.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "bspkrs.bspkrscore",
+          "version": "[6.12,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.25",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
@@ -39,7 +57,6 @@
     {
       "mcCompat":["1.7.2"],
       "name":"1.24",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {

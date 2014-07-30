@@ -4,7 +4,7 @@
   "repo":"ZephireNZ.QuickMod",
   "name":"WorldEditCUI",
   "urls":{
-    "forum": ["mcf:2171206"],
+    "forum": ["mcf:1292886"],
     "source": ["https://github.com/Mumfrey/WorldEditCUI"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/wecui_header.png"]
   },
@@ -14,10 +14,20 @@
   "authors":{ "Developer":["Mumfrey", "yetanotherx", "lahwran"] },
   "versions":[
     {
+      "mcCompat":["1.7.10"],
+      "name":"1.7.10.00",
+      "installType":"liteloaderMod",
+      "urls": [
+        {
+          "url": "http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.10_00_mc1.7.10.litemod",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.7.2.02",
-      "type":"Release",
-      "installType":"forgeMod",
+      "installType":"liteloaderMod",
       "urls": [
         {
           "url": "http://eq2.co.uk/minecraft/mods/thirdparty/mod_worldeditcui_1.7.2_02_lite_mc1.7.2.litemod",

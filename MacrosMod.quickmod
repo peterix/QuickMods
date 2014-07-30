@@ -4,7 +4,7 @@
   "repo":"ZephireNZ.QuickMod",
   "name":"MacrosMod",
   "urls":{
-    "forum": ["mcf:467504"],
+    "forum": ["mcf:1275039"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/header.png"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/MacrosMod.quickmod",
@@ -15,8 +15,7 @@
     {
       "mcCompat":["1.7.2"],
       "name":"0.10.04",
-      "type":"Release",
-      "installType":"forgeMod",
+      "installType":"liteloaderMod",
       "urls": [
         {
           "url": "http://eq2.co.uk/minecraft/mods/mod_macros_0.10.04_for_1.7.2.litemod",

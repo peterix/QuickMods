@@ -6,7 +6,7 @@
   "name":"ArmorStatusHUD",
   "description":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
   "urls":{
-    "forum": ["mcf:1114612"],
+    "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/ArmorStatusHUD"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/ArmorStatusHUD.quickmod",
@@ -18,13 +18,31 @@
   },
   "versions":[
     {
-      "mcCompat":["1.7.2"],
-      "name":"1.26",
-      "type":"Release",
+      "forgeCompat": "[10.13.0.1151,)",
+      "mcCompat":["1.7.10"],
+      "name":"1.27",
       "installType":"forgeMod",
       "urls": [
         {
-          "url":  "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.26.jar",
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.10]ArmorStatusHUD-client-1.27.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "bspkrs.bspkrscore",
+          "version": "[6.12,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.26",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.26.jar",
           "downloadType": "direct"
         }
       ],
@@ -39,11 +57,10 @@
     {
       "mcCompat":["1.7.2"],
       "name":"1.25",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
-          "url":  "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
           "downloadType": "direct"
         }
       ],

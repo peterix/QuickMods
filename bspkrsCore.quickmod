@@ -6,7 +6,7 @@
   "name":"bspkrsCore",
   "description":"This is a REQUIRED mod in order for any of the other mods to work.  It contains the core shared classes used by all mods I release.  If you don't install it along with any of the other mods here, Minecraft will crash.  You have been warned.",
   "urls":{
-    "forum": ["mcf:1114612"],
+    "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/bspkrsCore"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/bspkrsCore.quickmod",
@@ -15,9 +15,20 @@
   "authors":{ "Developer":["bspkrs"] },
   "versions":[
     {
+      "mcCompat":["1.7.10"],
+      "name":"6.13",
+      "installType":"forgeMod",
+      "forgeCompat": "[10.13.0.1151,)",
+      "urls": [
+        {
+          "url": "http://bspk.rs/MC/bspkrsCore/latest/[1.7.10]bspkrsCore-universal-6.13.jar",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"6.9",
-      "type":"Release",
       "installType":"forgeMod",
       "forgeCompat": "[10.12.0.1056,)",
       "urls": [
@@ -30,7 +41,6 @@
     {
       "mcCompat":["1.7.2"],
       "name":"6.8",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {

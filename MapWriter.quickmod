@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "uid":"mapwriter",
+  "repo":"ZephireNZ.QuickMod",
+  "name":"MapWriter",
+  "urls":{
+    "forum": ["mcf:1286882"],
+    "source": ["https://github.com/daveyliam/mapwriter"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/MapWriter.quickmod",
+  "tags":["GUI"],
+  "catagories":["GUI"],
+  "authors":{ "Developer":["daveyliam", "prasinoulhs"] },
+  "versions":[
+    {
+      "forgeCompat": "[10.13.0.1152,)",
+      "mcCompat":["1.7.10"],
+      "name":"2.1.2",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "https://raw.githubusercontent.com/ZephireNZ/QuickMods/master/files/MapWriter-1.7.10-2.1.2.jar",
+          "downloadType": "direct"
+        }
+      ]
+    }
+  ]
+}

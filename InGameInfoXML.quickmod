@@ -18,9 +18,27 @@
   },
   "versions":[
     {
+      "mcCompat":["1.7.10"],
+      "name":"2.8.0.58",
+      "installType":"forgeMod",
+      "forgeCompat": "[10.13.0.1185,)",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/InGameInfoXML/1.7.10-2.8.0.58/InGameInfoXML-1.7.10-2.8.0.58-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "com.github.lunatrius.core",
+          "version": "[1.1.2.11,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"2.6.2.48",
-      "type":"Release",
       "installType":"forgeMod",
       "forgeCompat": "[10.12.0.1056,)",
       "urls": [
@@ -40,7 +58,6 @@
     {
       "mcCompat":["1.7.2"],
       "name":"2.6.0.44",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
@@ -59,7 +76,6 @@
     {
       "mcCompat":["1.7.2"],
       "name":"2.6.0.45",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {

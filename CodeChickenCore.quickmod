@@ -1,31 +1,48 @@
 {
   "formatVersion": 1,
-  "uid":"codechicken.core",
-  "repo":"ZephireNZ.QuickMod",
-  "modId":"CodeChickenCore",
-  "name":"CodeChickenCore",
+  "uid": "codechicken.core",
+  "repo": "ZephireNZ.QuickMod",
+  "modId": "CodeChickenCore",
+  "name": "CodeChickenCore",
   "description": "Core library for all ChickenBones mods",
-  "urls":{
-    "forum": ["mcf:909223"],
+  "urls": {
+    "forum": ["mcf:1279956"],
     "source": ["http://github.com/Chicken-Bones/CodeChickenCore"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
-  "tags":["Core"],
-  "catagories":["Core"],
-  "authors":{ "Developer":["ChickenBones"] },
+  "updateUrl": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
+  "tags": ["Core"],
+  "catagories": ["Core"],
+  "authors": { "Developer": ["ChickenBones"] },
   "references": {
     "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
   },
-  "versions":[
+  "versions": [
     {
-      "mcCompat":["1.7.2"],
-      "name":"1.7.2.1.0.0",
-      "type":"Release",
-      "installType":"forgeMod",
+      "mcCompat": ["1.7.10"],
+      "name": "1.0.2.9",
+      "installType": "forgeMod",
       "urls": [
         {
-          "url":  "http://www.chickenbones.craftsaddle.org/Files/New_Versions/1.7.2/CodeChickenCore-1.7.2-1.0.0-universal.jar",
-          "downloadType": "direct"
+          "url": "http://adf.ly/qCX4W",
+          "downloadType": "sequential"
+        }
+      ],
+      "references": [
+        {
+          "uid": "codechicken.lib",
+          "version": "",
+          "type": "depends"
+        }
+      ]
+    },
+    {
+      "mcCompat": ["1.7.2"],
+      "name": "1.0.0",
+      "installType": "forgeMod",
+      "urls": [
+        {
+          "url":  "http://adf.ly/q7I7B",
+          "downloadType": "sequential"
         }
       ],
       "references": [

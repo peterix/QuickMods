@@ -6,7 +6,7 @@
   "name":"Schematica",
   "description":"With this mod you're able to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
   "urls":{
-    "forum": ["mcf:1468779"],
+    "forum": ["mcf:1285818"],
     "source": ["http://github.com/Lunatrius/Schematica"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/Schematica.quickmod",
@@ -18,9 +18,27 @@
   },
   "versions":[
     {
+      "mcCompat":["1.7.10"],
+      "name":"1.7.0.84",
+      "installType":"forgeMod",
+      "forgeCompat": "[10.13.0.1185,)",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/Schematica/1.7.10-1.7.0.84/Schematica-1.7.10-1.7.0.84-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "com.github.lunatrius.core",
+          "version": "[1.1.2.11,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.6.1.76",
-      "type":"Release",
       "installType":"forgeMod",
       "forgeCompat": "[10.12.0.1056,)",
       "urls": [
@@ -40,7 +58,6 @@
     {
       "mcCompat":["1.7.2"],
       "name":"1.6.1.75",
-      "type":"Release",
       "installType":"forgeMod",
       "forgeCompat": "[10.12.0.1056,)",
       "urls": [

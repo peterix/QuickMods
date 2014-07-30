@@ -13,9 +13,19 @@
   "authors":{ "Developer":["ChickenBones"] },
   "versions":[
     {
+      "mcCompat":["1.7.10"],
+      "name":"1.1.1.98",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://files.minecraftforge.net/maven/codechicken/CodeChickenLib/1.7.10-1.1.1.98/CodeChickenLib-1.7.10-1.1.1.98-universal.jar",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.1.1.80",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {

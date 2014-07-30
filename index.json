@@ -64,6 +64,10 @@
     {
       "uid": "eu.ha3.mc.presencefootsteps",
       "url": "PresenceFootsteps.quickmod"
+    },
+    {
+      "uid": "mapwriter",
+      "url": "MapWriter.quickmod"
     }
   ]
 }

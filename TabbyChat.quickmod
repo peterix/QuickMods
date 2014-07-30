@@ -4,7 +4,8 @@
   "repo":"ZephireNZ.QuickMod",
   "name":"TabbyChat",
   "urls":{
-    "forum": ["mcf:1540451"],
+    "forum": ["mcf:1286567"],
+    "source": ["https://github.com/Dykam/tabbychat"],
     "logo": ["http://i.imgur.com/J6LrxIo.png"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/TabbyChat.quickmod",
@@ -16,7 +17,7 @@
       "mcCompat":["1.7.2"],
       "name":"1.11.0.1-d254306",
       "type":"Release",
-      "installType":"forgeMod",
+      "installType":"liteloaderMod",
       "urls": [
         {
           "url": "https://raw.githubusercontent.com/ZephireNZ/QuickMods/master/files/tabbychat-1.11.0.1-d254306.litemod",

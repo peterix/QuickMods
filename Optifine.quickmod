@@ -6,7 +6,7 @@
   "name":"Optifine",
   "description":"This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common.",
   "urls":{
-    "forum": ["mcf:249637"]
+    "forum": ["mcf:1272953"]
   },
   "updateUrl":"github://ZephireNZ@QuickMods/Optifine.quickmod",
   "tags":["GUI"],
@@ -14,13 +14,24 @@
   "authors":{ "Developer":["sp614x"] },
   "versions":[
     {
-      "mcCompat":["1.7.2"],
-      "name":"1.7.2_HD_U_D1",
-      "type":"Release",
+      "forgeCompat": "[10.13.0.1180,)",
+      "mcCompat":["1.7.10"],
+      "name":"1.7.10_HD_U_A4",
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.2_HD_U_D1.jar",
+          "url": "http://optifined.net/adloadx.php?f=OptiFine_1.7.10_HD_U_A4.jar",
+          "downloadType": "sequential"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.2"],
+      "name":"1.7.2_HD_U_D1",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://optifined.net/adloadx.php?f=OptiFine_1.7.2_HD_U_D1.jar",
           "downloadType": "sequential"
         }
       ]
@@ -28,11 +39,10 @@
     {
       "mcCompat":["1.7.4"],
       "name":"1.7.4_HD_U_C7",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_C7.jar",
+          "url": "http://optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_C7.jar",
           "downloadType": "sequential"
         }
       ]
@@ -40,11 +50,10 @@
     {
       "mcCompat":["1.7.4"],
       "name":"1.7.4_HD_U_D1",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_D1.jar",
+          "url": "http://optifined.net/adloadx.php?f=OptiFine_1.7.4_HD_U_D1.jar",
           "downloadType": "sequential"
         }
       ]
@@ -52,11 +61,10 @@
     {
       "mcCompat":["1.7.9"],
       "name":"1.7.9_HD_U_D2",
-      "type":"Release",
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.7.9_HD_U_D2.jar",
+          "url": "http://optifined.net/adloadx.php?f=OptiFine_1.7.9_HD_U_D2.jar",
           "downloadType": "sequential"
         }
       ]
