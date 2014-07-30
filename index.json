@@ -1,5 +1,6 @@
 {
   "baseUrl": "github://ZephireNZ@QuickMods/",
+  "repo": "ZephireNZ.QuickMod",
   "index": [
     {
       "uid": "bspkrs.armorstatushud",
