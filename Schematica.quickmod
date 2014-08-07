@@ -19,6 +19,25 @@
   "versions":[
     {
       "mcCompat":["1.7.10"],
+      "name":"1.7.0.85",
+      "installType":"forgeMod",
+      "forgeCompat": "[10.13.0.1185,)",
+      "urls": [
+        {
+          "url": "http://mc.lunatri.us/files/com.github.lunatrius/Schematica/1.7.10-1.7.0.85/Schematica-1.7.10-1.7.0.85-universal.jar",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+          "uid": "com.github.lunatrius.core",
+          "version": "[1.1.2.11,)",
+          "type": "depends"
+        }
+      ]
+    },
+    {
+      "mcCompat":["1.7.10"],
       "name":"1.7.0.84",
       "installType":"forgeMod",
       "forgeCompat": "[10.13.0.1185,)",
