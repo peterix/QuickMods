@@ -24,7 +24,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.10]ArmorStatusHUD-client-1.27.jar",
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/[1.7.10]ArmorStatusHUD-client-1.27.jar",
           "downloadType": "direct"
         }
       ],
@@ -42,7 +42,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.26.jar",
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/[1.7.2]ArmorStatusHUD-client-1.26.jar",
           "downloadType": "direct"
         }
       ],
@@ -60,7 +60,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/ArmorStatusHUD/latest/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
+          "url": "http://bspk.rs/MC/ArmorStatusHUD/[1.7.2]ArmorStatusHUD-client-1.25(1.7.2).jar",
           "downloadType": "direct"
         }
       ],

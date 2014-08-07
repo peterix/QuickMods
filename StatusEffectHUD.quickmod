@@ -24,7 +24,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.10]StatusEffectHUD-client-1.26.jar",
+          "url": "http://bspk.rs/MC/StatusEffectHUD/[1.7.10]StatusEffectHUD-client-1.26.jar",
           "downloadType": "direct"
         }
       ],
@@ -42,7 +42,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.25.jar",
+          "url": "http://bspk.rs/MC/StatusEffectHUD/[1.7.2]StatusEffectHUD-client-1.25.jar",
           "downloadType": "direct"
         }
       ],
@@ -60,7 +60,7 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://bspk.rs/MC/StatusEffectHUD/latest/[1.7.2]StatusEffectHUD-client-1.24(1.7.2).jar",
+          "url": "http://bspk.rs/MC/StatusEffectHUD/[1.7.2]StatusEffectHUD-client-1.24(1.7.2).jar",
           "downloadType": "direct"
         }
       ],
