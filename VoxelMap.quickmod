@@ -12,7 +12,7 @@
   "updateUrl": "github://ZephireNZ@QuickMods/VoxelMap.quickmod",
   "tags": ["GUI"],
   "categories": ["GUI"],
-  "authors": {"Developers": "MamiyaOtaru"},
+  "authors": {"Developer": ["MamiyaOtaru"]},
   "versions": [
     {
       "mcCompat": ["1.7.2"],

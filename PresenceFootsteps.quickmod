@@ -10,7 +10,7 @@
   "updateUrl": "github://ZephireNZ@QuickMods/PresenceFootsteps.quickmod",
   "tags": ["Sound"],
   "categories": ["Sound"],
-  "authors": {"Developers": "Hurricaaane"},
+  "authors": {"Developer": ["Hurricaaane"]},
   "versions": [
     {
       "mcCompat": ["1.7.2"],
