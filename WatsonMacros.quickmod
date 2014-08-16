@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "uid":"io.totemo.watson.macro",
+  "repo":"ZephireNZ.QuickMod",
+  "name":"WatsonMacros",
+  "urls":{
+    "source": ["http://github.com/totemo/watson_macros"]
+  },
+  "updateUrl":"github://ZephireNZ@QuickMods/WatsonMacros.quickmod",
+  "tags":["Macros", "GUI"],
+  "catagories":["Macros", "GUI"],
+  "authors":{ "Developer":["totemo"] },
+  "versions":[
+    {
+      "mcCompat":["1.7.10"],
+      "name":"0.8.0",
+      "installType":"liteloaderMod",
+      "urls": [
+        {
+          "url": "https://github.com/totemo/watson_macros/releases/download/0.8.0-1.7.10/mod_watson_macros_0.8.0_mc1.7.10.litemod"
+        }
+      ]
+    }
+  ]
+}

@@ -73,6 +73,14 @@
     {
       "uid": "com.thevoxelbox.voxelmenu",
       "url": "VoxelMenu.quickmod"
+    },
+    {
+      "uid": "watson",
+      "url": "Watson.quickmod"
+    },
+    {
+      "uid": "io.totemo.watson.macro",
+      "url": "WatsonMacros.quickmod"
     }
   ]
 }
