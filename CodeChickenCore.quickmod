@@ -23,8 +23,8 @@
       "installType": "forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/qCX4W",
-          "downloadType": "sequential"
+          "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.2.9/CodeChickenCore-1.7.10-1.0.2.9-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [
@@ -37,12 +37,12 @@
     },
     {
       "mcCompat": ["1.7.2"],
-      "name": "1.0.0",
+      "name": "1.0.2.10",
       "installType": "forgeMod",
       "urls": [
         {
-          "url":  "http://adf.ly/q7I7B",
-          "downloadType": "sequential"
+          "url":  "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.2-1.0.2.10/CodeChickenCore-1.7.2-1.0.2.10-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [
