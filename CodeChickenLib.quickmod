@@ -24,6 +24,17 @@
       ]
     },
     {
+      "mcCompat":["1.7.10"],
+      "name":"1.1.1.102",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "http://files.minecraftforge.net/maven/codechicken/CodeChickenLib/1.7.10-1.1.1.102/CodeChickenLib-1.7.10-1.1.1.102-universal.jar",
+          "downloadType": "direct"
+        }
+      ]
+    },
+    {
       "mcCompat":["1.7.2"],
       "name":"1.1.1.80",
       "installType":"forgeMod",
