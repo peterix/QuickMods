@@ -1,20 +1,20 @@
 {
   "formatVersion": 1,
   "uid":"codechicken.nei",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"NotEnoughItems",
   "name":"NotEnoughItems",
   "urls":{
     "forum": ["mcf:1279956"],
     "source": ["http://github.com/Chicken-Bones/NotEnoughItems"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/NotEnoughItems.quickmod",
+  "updateUrl":"github://peterix@QuickMods/NotEnoughItems.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
-    "codechicken.core": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
-    "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
+    "codechicken.core": "github://peterix@QuickMods/CodeChickenCore.quickmod",
+    "codechicken.lib": "github://peterix@QuickMods/CodeChickenLib.quickmod"
   },
   "versions": [
     {
@@ -23,8 +23,8 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/q7I9O",
-          "downloadType": "sequential"
+          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.2.15/NotEnoughItems-1.7.10-1.0.2.15-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [
@@ -46,8 +46,8 @@
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://adf.ly/q7I9i",
-          "downloadType": "sequential"
+          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.2-1.0.1/NotEnoughItems-1.7.2-1.0.1-universal.jar",
+          "downloadType": "direct"
         }
       ],
       "references": [

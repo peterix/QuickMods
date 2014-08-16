@@ -1,14 +1,14 @@
 {
   "formatVersion": 1,
   "uid":"com.mumfrey.worldeditcui",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "name":"WorldEditCUI",
   "urls":{
     "forum": ["mcf:1292886"],
     "source": ["https://github.com/Mumfrey/WorldEditCUI"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/wecui_header.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/WorldEditCUI.quickmod",
+  "updateUrl":"github://peterix@QuickMods/WorldEditCUI.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["Mumfrey", "yetanotherx", "lahwran"] },

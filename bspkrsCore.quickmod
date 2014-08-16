@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"bspkrs.bspkrscore",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"bspkrsCore",
   "name":"bspkrsCore",
   "description":"This is a REQUIRED mod in order for any of the other mods to work.  It contains the core shared classes used by all mods I release.  If you don't install it along with any of the other mods here, Minecraft will crash.  You have been warned.",
@@ -9,7 +9,7 @@
     "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/bspkrsCore"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/bspkrsCore.quickmod",
+  "updateUrl":"github://peterix@QuickMods/bspkrsCore.quickmod",
   "tags":["API", "Core"],
   "catagories":["API", "Core"],
   "authors":{ "Developer":["bspkrs"] },

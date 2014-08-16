@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"bspkrs.statuseffecthud",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"StatusEffectHUD",
   "name":"StatusEffectHUD",
   "description":"StatusEffectHUD displays your currently active potions/effects without having to open your inventory!",
@@ -9,12 +9,12 @@
     "forum": ["mcf:1282347"],
     "source": ["http://github.com/bspkrs/StatusEffectHUD"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/StatusEffectHUD.quickmod",
+  "updateUrl":"github://peterix@QuickMods/StatusEffectHUD.quickmod",
   "tags":["HUD", "GUI"],
   "catagories":["HUD", "GUI"],
   "authors":{ "Developer":["bspkrs"] },
   "references": {
-    "bspkrs.bspkrscore": "github://ZephireNZ@QuickMods/bspkrsCore.quickmod"
+    "bspkrs.bspkrscore": "github://peterix@QuickMods/bspkrsCore.quickmod"
   },
   "versions":[
     {

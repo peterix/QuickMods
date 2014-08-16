@@ -1,12 +1,12 @@
 {
   "formatVersion": 1,
   "uid":"io.totemo.watson.macro",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "name":"WatsonMacros",
   "urls":{
     "source": ["http://github.com/totemo/watson_macros"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/WatsonMacros.quickmod",
+  "updateUrl":"github://peterix@QuickMods/WatsonMacros.quickmod",
   "tags":["Macros", "GUI"],
   "catagories":["Macros", "GUI"],
   "authors":{ "Developer":["totemo"] },

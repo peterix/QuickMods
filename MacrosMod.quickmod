@@ -1,13 +1,13 @@
 {
   "formatVersion": 1,
   "uid":"net.eq2online.macros",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "name":"MacrosMod",
   "urls":{
     "forum": ["mcf:1275039"],
     "logo": ["http://eq2.co.uk/minecraft/mods/forumimages/header.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/MacrosMod.quickmod",
+  "updateUrl":"github://peterix@QuickMods/MacrosMod.quickmod",
   "tags":["Macros", "GUI"],
   "catagories":["Macros", "GUI"],
   "authors":{ "Developer":["Mumfrey"] },

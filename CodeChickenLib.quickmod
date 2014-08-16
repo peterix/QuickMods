@@ -1,13 +1,13 @@
 {
   "formatVersion": 1,
   "uid":"codechicken.lib",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"CodeChickenLib",
   "name":"CodeChickenLib",
   "urls":{
     "source": ["http://github.com/Chicken-Bones/CodeChickenLib"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/CodeChickenLib.quickmod",
+  "updateUrl":"github://peterix@QuickMods/CodeChickenLib.quickmod",
   "tags":["Core"],
   "catagories":["Core"],
   "authors":{ "Developer":["ChickenBones"] },

@@ -1,14 +1,14 @@
 {
   "formatVersion": 1,
   "uid":"optifine",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"Optifine",
   "name":"Optifine",
   "description":"This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common.",
   "urls":{
     "forum": ["mcf:1272953"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/Optifine.quickmod",
+  "updateUrl":"github://peterix@QuickMods/Optifine.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["sp614x"] },

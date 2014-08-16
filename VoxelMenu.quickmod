@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
   "uid": "com.thevoxelbox.voxelmenu",
-  "repo": "ZephireNZ.QuickMods",
+  "repo": "peterix.QuickMods",
   "modId": "voxelmenu",
   "name": "VoxelMenu",
-  "updateUrl": "github://ZephireNZ@QuickMods/VoxelMenu.quickmod",
+  "updateUrl": "github://peterix@QuickMods/VoxelMenu.quickmod",
   "tags": ["GUI"],
   "categories": ["GUI"],
   "authors": {"Developer": ["Mumfrey"]},

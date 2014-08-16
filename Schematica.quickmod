@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"com.github.lunatrius.schematica",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"Schematica",
   "name":"Schematica",
   "description":"With this mod you're able to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
@@ -9,12 +9,12 @@
     "forum": ["mcf:1285818"],
     "source": ["http://github.com/Lunatrius/Schematica"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/Schematica.quickmod",
+  "updateUrl":"github://peterix@QuickMods/Schematica.quickmod",
   "authors":{ "Developer":["Lunatrius"] },
   "tags": ["GUI"],
   "catagories": ["GUI"],
   "references": {
-    "com.github.lunatrius.core": "github://ZephireNZ@QuickMods/LunatriusCore.quickmod"
+    "com.github.lunatrius.core": "github://peterix@QuickMods/LunatriusCore.quickmod"
   },
   "versions":[
     {

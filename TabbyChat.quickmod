@@ -1,14 +1,14 @@
 {
   "formatVersion": 1,
   "uid":"acs.tabbychat",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "name":"TabbyChat",
   "urls":{
     "forum": ["mcf:1286567"],
     "source": ["https://github.com/Dykam/tabbychat"],
     "logo": ["http://i.imgur.com/J6LrxIo.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/TabbyChat.quickmod",
+  "updateUrl":"github://peterix@QuickMods/TabbyChat.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["RocketMan10404", "Dykam", "Killjoy1221"] },
@@ -20,7 +20,7 @@
       "installType":"liteloaderMod",
       "urls": [
         {
-          "url": "https://raw.githubusercontent.com/ZephireNZ/QuickMods/master/files/tabbychat-1.11.0.1-d254306.litemod",
+          "url": "https://raw.githubusercontent.com/peterix/QuickMods/master/files/tabbychat-1.11.0.1-d254306.litemod",
           "downloadType": "direct"
         }
       ]

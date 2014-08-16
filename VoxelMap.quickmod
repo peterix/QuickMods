@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid": "com.thevoxelbox.voxelmap",
-  "repo": "ZephireNZ.QuickMods",
+  "repo": "peterix.QuickMods",
   "modId": "voxelmap",
   "name": "VoxelMap",
   "nemName": "VoxelMap",
@@ -9,7 +9,7 @@
     "logo": ["http://static.planetminecraft.com/files/resource_media/screenshot/1244/radar_3468641.jpg"],
     "website": ["http://www.planetminecraft.com/mod/zans-minimap/"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/VoxelMap.quickmod",
+  "updateUrl": "github://peterix@QuickMods/VoxelMap.quickmod",
   "tags": ["GUI"],
   "categories": ["GUI"],
   "authors": {"Developer": ["MamiyaOtaru"]},

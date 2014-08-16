@@ -1,13 +1,13 @@
 {
   "formatVersion": 1,
   "uid": "eu.ha3.mc.presencefootsteps",
-  "repo": "ZephireNZ.QuickMods",
+  "repo": "peterix.QuickMods",
   "name": "PresenceFootsteps",
   "urls": {
     "logo": ["http://ha3.eu/public/mc-mods/branding/presencefootsteps.png"],
     "website": ["mcf:1290546"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/PresenceFootsteps.quickmod",
+  "updateUrl": "github://peterix@QuickMods/PresenceFootsteps.quickmod",
   "tags": ["Sound"],
   "categories": ["Sound"],
   "authors": {"Developer": ["Hurricaaane"]},

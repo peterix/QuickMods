@@ -1,14 +1,14 @@
 {
   "formatVersion": 1,
   "uid":"com.github.lunatrius.core",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"LunatriusCore",
   "name":"LunatriusCore",
   "description":"This is a REQUIRED mod in order for any of the other mods to work in 1.7.2 or later. It contains the core shared classes used by all mods I release. If you don't install it along with any of the other mods here, Minecraft will crash. You have been warned!",
   "urls":{
     "forum": ["mcf:1296949"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/LunatriusCore.quickmod",
+  "updateUrl":"github://peterix@QuickMods/LunatriusCore.quickmod",
   "tags": ["Core", "API"],
   "catagories": ["Core", "API"],
   "authors":{ "Developer":["Lunatrius"] },

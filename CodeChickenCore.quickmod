@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid": "codechicken.core",
-  "repo": "ZephireNZ.QuickMod",
+  "repo": "peterix.QuickMod",
   "modId": "CodeChickenCore",
   "name": "CodeChickenCore",
   "description": "Core library for all ChickenBones mods",
@@ -9,12 +9,12 @@
     "forum": ["mcf:1279956"],
     "source": ["http://github.com/Chicken-Bones/CodeChickenCore"]
   },
-  "updateUrl": "github://ZephireNZ@QuickMods/CodeChickenCore.quickmod",
+  "updateUrl": "github://peterix@QuickMods/CodeChickenCore.quickmod",
   "tags": ["Core"],
   "catagories": ["Core"],
   "authors": { "Developer": ["ChickenBones"] },
   "references": {
-    "codechicken.lib": "github://ZephireNZ@QuickMods/CodeChickenLib.quickmod"
+    "codechicken.lib": "github://peterix@QuickMods/CodeChickenLib.quickmod"
   },
   "versions": [
     {

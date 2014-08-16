@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"com.github.lunatrius.ingameinfo",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"InGameInfoXML",
   "name":"InGame Info XML",
   "description":"Ingame Info adds the ability to add lines of information to your in-game screen.",
@@ -9,12 +9,12 @@
     "forum": ["mcf:1296949"],
     "source": ["http://github.com/Lunatrius/InGame-Info-XML"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/Schematica.quickmod",
+  "updateUrl":"github://peterix@QuickMods/Schematica.quickmod",
   "authors":{ "Developer":["Lunatrius"] },
   "tags": ["GUI"],
   "catagories": ["GUI"],
   "references": {
-    "com.github.lunatrius.core": "github://ZephireNZ@QuickMods/LunatriusCore.quickmod"
+    "com.github.lunatrius.core": "github://peterix@QuickMods/LunatriusCore.quickmod"
   },
   "versions":[
     {

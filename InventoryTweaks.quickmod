@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "uid":"invtweaks",
-  "repo":"ZephireNZ.QuickMod",
+  "repo":"peterix.QuickMod",
   "modId":"inventorytweaks",
   "name":"InventoryTweaks",
   "description":"This client mod allows you to easily manage your inventory, in both single player and multiplayer.",
@@ -10,7 +10,7 @@
     "source": ["http://github.com/Kobata/inventory-tweaks"],
     "logo": ["http://modding.kalam-alami.net/img/invtweaks.png"]
   },
-  "updateUrl":"github://ZephireNZ@QuickMods/InventoryTweaks.quickmod",
+  "updateUrl":"github://peterix@QuickMods/InventoryTweaks.quickmod",
   "tags":["GUI"],
   "catagories":["GUI"],
   "authors":{ "Developer":["Kobata"] },
