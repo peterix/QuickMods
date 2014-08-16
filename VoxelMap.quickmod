@@ -15,6 +15,17 @@
   "authors": {"Developer": ["MamiyaOtaru"]},
   "versions": [
     {
+      "mcCompat": ["1.7.10"],
+      "installType": "liteloaderMod",
+      "name": "1.2.3",
+      "urls": [
+        {
+          "url": "http://repo.voxelmodpack.com/voxelmodpack/12.1/common/mod_voxelMap_1.2.3_for_1.7.10.litemod",
+          "downloadType": "parallel"
+        }
+      ]
+    },
+    {
       "mcCompat": ["1.7.2"],
       "installType": "forgeMod",
       "name": "1.0",
